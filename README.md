@@ -1,3 +1,58 @@
+Some instructions by LFX
+
+Works well on Windows 10 pro education 22H2
+Installed via the release 0.0.41
+
+[1] "R version 4.0.5 (2021-03-31)"                                             
+ [2] "Platform: x86_64-w64-mingw32/x64 (64-bit)"                                
+ [3] "Running under: Windows 10 x64 (build 19045)"                              
+ [4] ""                                                                         
+ [5] "Matrix products: default"                                                 
+ [6] ""                                                                         
+ [7] "locale:"                                                                  
+ [8] "[1] LC_COLLATE=English_United States.1252 "                               
+ [9] "[2] LC_CTYPE=English_United States.1252   "                               
+[10] "[3] LC_MONETARY=English_United States.1252"                               
+[11] "[4] LC_NUMERIC=C                          "                               
+[12] "[5] LC_TIME=English_United States.1252    "                               
+[13] ""                                                                         
+[14] "attached base packages:"                                                  
+[15] "[1] parallel  stats     graphics  grDevices utils     datasets  methods  "
+[16] "[8] base     "                                                            
+[17] ""                                                                         
+[18] "other attached packages:"                                                 
+[19] "[1] lattice_0.20-45 ggplot2_3.4.0   base64enc_0.1-3 rmarkdown_2.18 "      
+[20] "[5] tidyr_1.2.1     protViz_0.6.8   shiny_1.7.3     rawDiag_0.0.41 "      
+[21] ""                                                                         
+[22] "loaded via a namespace (and not attached):"                               
+[23] " [1] httr_1.4.4          sass_0.4.4          bit64_4.0.5        "         
+[24] " [4] jsonlite_1.8.3      modelr_0.1.10       bslib_0.4.1        "         
+[25] " [7] assertthat_0.2.1    blob_1.2.3          googlesheets4_1.0.1"         
+[26] "[10] cellranger_1.1.0    yaml_2.3.6          pillar_1.8.1       "         
+[27] "[13] RSQLite_2.2.19      backports_1.4.1     glue_1.6.2         "         
+[28] "[16] digest_0.6.30       promises_1.2.0.1    rvest_1.0.3        "         
+[29] "[19] colorspace_2.0-3    htmltools_0.5.3     httpuv_1.6.6       "         
+[30] "[22] pkgconfig_2.0.3     broom_1.0.1         haven_2.5.1        "         
+[31] "[25] purrr_0.3.5         xtable_1.8-4        scales_1.2.1       "         
+[32] "[28] later_1.3.0         tzdb_0.3.0          timechange_0.1.1   "         
+[33] "[31] tibble_3.1.8        googledrive_2.0.0   generics_0.1.3     "         
+[34] "[34] DT_0.26             ellipsis_0.3.2      cachem_1.0.6       "         
+[35] "[37] withr_2.5.0         tidyverse_1.3.2     hexbin_1.28.2      "         
+[36] "[40] cli_3.4.1           magrittr_2.0.3      readxl_1.4.1       "         
+[37] "[43] mime_0.12           memoise_2.0.1       evaluate_0.18      "         
+[38] "[46] fs_1.5.2            fansi_1.0.3         forcats_0.5.2      "         
+[39] "[49] xml2_1.3.3          tools_4.0.5         hms_1.1.2          "         
+[40] "[52] gargle_1.2.1        lifecycle_1.0.3     stringr_1.5.0      "         
+[41] "[55] munsell_0.5.0       reprex_2.0.2        compiler_4.0.5     "         
+[42] "[58] jquerylib_0.1.4     rlang_1.0.6         grid_4.0.5         "         
+[43] "[61] htmlwidgets_1.5.4   crosstalk_1.2.0     gtable_0.3.1       "         
+[44] "[64] codetools_0.2-18    DBI_1.1.3           markdown_1.4       "         
+[45] "[67] R6_2.5.1            lubridate_1.9.0     knitr_1.41         "         
+[46] "[70] dplyr_1.0.10        fastmap_1.1.0       bit_4.0.5          "         
+[47] "[73] utf8_1.2.2          commonmark_1.8.1    readr_2.1.3        "         
+[48] "[76] stringi_1.7.8       Rcpp_1.0.9          vctrs_0.5.1        "         
+[49] "[79] dbplyr_2.2.1        tidyselect_1.2.0    xfun_0.35          "   
+
 [![JPR](https://img.shields.io/badge/JPR-10.1021%2Facs.jproteome.8b00173-brightgreen)](http://dx.doi.org/10.1021/acs.jproteome.8b00173)
 
 # rawDiag 
@@ -50,6 +105,7 @@ The package [JPR.R1](https://github.com/fgcz/rawDiag/tree/JPR.R1) release has be
 |MacOSX    | 10.13.5 (17F77)|3.4.2|CP|
 |MacOSX    | 10.11.6 (15G20015)|3.4.3 |JG|
 |MacOSX    | 10.13.4 (17E202)|3.4.4|CP|
+
 
 ## 2. Installation guide
 
